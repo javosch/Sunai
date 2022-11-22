@@ -1,0 +1,5 @@
+Respuestas:
+Suma Active Power para el dia 10 fue de 6185513.0
+Valor mínimo de Active Energy es de 46870800
+Valor máximo de Active Energy es de 112923304
+Ruta al gráfico de linea C:\Users\JavierSchmitt\Documents\Python Scripts\Sunai\line_cart.png
